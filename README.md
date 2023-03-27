@@ -1,29 +1,33 @@
-# patterns-lab
+# Quick Start
+For a detailed documentation of this lab please see the wiki page: https://github.com/boconnor2017/e2e-k8-lab/wiki
 
-## Overview
+## Step 1: Deploy Photon (photon-ova-4.0-ca7c9e9330.ova)
+For downloads visit: https://github.com/vmware/photon/wiki/Downloading-Photon-OS 
 
-## Try it out
+The default password is `changeme`. For all labs, use `/usr/local/` as the working directory.
+```
+cd /usr/local/
+```
 
-### Prerequisites
+## Step 2: Download controller prep script 
+```
+curl https://raw.githubusercontent.com/boconnor2017/e2e-k8-lab/main/prep-photon.sh >> prep-photon.sh
+```
 
-* Prereq 1
-* Prereq 2
-* Prereq 3
+## Step 3: Download refresher script
+```
+curl https://raw.githubusercontent.com/boconnor2017/e2e-k8-lab/main/refresh-e2e-k8-lab.sh >> refresh-e2e-k8-lab.sh
+```
 
-### Build & Run
+## Step 4: Run E2E lab PhotonOS prep script
+```
+sh prep-photon.sh
+```
 
-1. Step 1
-2. Step 2
-3. Step 3
+## Step 5: Refresh local repo (as needed)
+```
+sh refresh-e2e-k8-lab.sh
+```
 
-## Documentation
-
-## Contributing
-
-The patterns-lab project team welcomes contributions from the community. Before you start working with patterns-lab, please
-read our [Developer Certificate of Origin](https://cla.vmware.com/dco). All contributions to this repository must be
-signed as described on that page. Your signature certifies that you wrote the patch or have the right to pass it on
-as an open-source patch. For more detailed information, refer to [CONTRIBUTING.md](CONTRIBUTING.md).
-
-## License
-
+# Labs
+See table of contents in the wiki: https://github.com/boconnor2017/e2e-k8-lab/wiki/Table-of-Contents
