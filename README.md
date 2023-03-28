@@ -1,5 +1,4 @@
 # Quick Start
-For a detailed documentation of this lab please see the wiki page: https://github.com/boconnor2017/e2e-k8-lab/wiki
 
 ## Step 1: Deploy Photon (photon-ova-4.0-ca7c9e9330.ova)
 For downloads visit: https://github.com/vmware/photon/wiki/Downloading-Photon-OS 
