@@ -1,5 +1,5 @@
 # Welcome to E2E Patterns
-ℹ️ Please be informed, this repository is being refactored for use here using https://github.com/boconnor2017/e2e-patterns.git. All labs and code snippets will be migrated here shortly. In the meantime, please feel free to use the https://github.com/boconnor2017/e2e-patterns.git repository while we work on the build of this one. 
+ℹ️ Please be informed, this repository is being refactored for use here using [this GitHub repository](https://github.com/boconnor2017/e2e-patterns.git). All labs and code snippets will be migrated here shortly. In the meantime, please feel free to use [this GitHub repository](https://github.com/boconnor2017/e2e-patterns.git) while patterns-lab is being finalized. 
 
 ![alt text](https://github.com/boconnor2017/e2e-patterns/blob/main/img/E2E-Patterns-Logo-01.png)
 This repository is intended to provide code samples to help you build immutable VMware Patterns. 
