@@ -45,7 +45,7 @@ It is not mandatory to have these exact specs in your home lab. In fact its not 
 ## Licensing
 All Patterns are designed to be immutable. Licensing is not required. If a VMware environment has been running longer than the duration of the evaluation, you may choose to buy the appropriate licenses from VMware or you may choose to destroy and rebuild the environment. 
 
-# Patern 00: Deploy the Master Controller
+# Pattern 00: Deploy the Master Controller
 There is one PhotonOS server used as the master control plane for all Patterns. This PhotonOS server will be referred to as the Master Photon Controller. The steps to deploy the Master Photon Controller are outlined in the Quick Start README.md page. If you haven't already, the following are the steps to configure the Master Photon Controller.
 
 Step 1: Deploy Photon (photon-ova-4.0-ca7c9e9330.ova)
@@ -112,21 +112,10 @@ Before submitting your pull request, we advise you to use the following:
 
 For specifics on what to include in your report, please follow the guidelines in the issue and pull request templates when available.
 
-_TO BE EDITED: Add additional information if needed._
-
-
 ## Ask for Help
-
-_TO BE EDITED: Provide information about the channels you use to communicate (i.e. Slack, IRC, Discord, etc)_
 
 The best way to reach us with a question when contributing is to ask on:
 
 * The original GitHub issue
 * The developer mailing list
 * Our Slack channel
-
-
-## Additional Resources
-
-_Optional_
-
